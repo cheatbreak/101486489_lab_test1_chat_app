@@ -1,0 +1,1 @@
+For the app to work, sign up with your name, password and username. Then, you can click on groups to join / leave them, and click on private messages if other users are on the website to chat to them privately. There is also a logout button in the top right.
